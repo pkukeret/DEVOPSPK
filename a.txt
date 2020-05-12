@@ -1,5 +1,16 @@
 learning git 	
-:wq
 
-:q
+
+
+changes in file a.txt
 	
+
+
+:wq
+:q
+:wq
+	:wq
+
+
+
+
